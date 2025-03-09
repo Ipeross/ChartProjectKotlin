@@ -12,3 +12,16 @@ Este es un proyecto de una aplicación con un grafico hecho con la librería Vic
 ## Funcionalidad ⚡
 
 - Se muestra un gráfico de barras simple.
+
+# Rubrica 🖊
+
+---
+
+## **4. Uso de Biblioteca Externa para Gráficas (1.5 puntos)**  
+
+- **(0.75 pts)** Integración de una biblioteca externa para la representación de gráficas.
+**--> Integro la biblioteca de Vico para la implementacion de un grafico de barras**
+- **(0.75 pts)** Implementación funcional y adaptada a Jetpack Compose.
+**--> Se muestra correctamente el grafico y se adapta a Jetpack Compose**
+
+---
